@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="009369da-61b2-408a-855f-daa148c21d44" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c30P6t8DpoSpiSxPgq9Vgs9XQ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SahsaBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="009369da-61b2-408a-855f-daa148c21d44" name="Default Changelist" comment="" />
+      <created>1589741942489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589741942489</updated>
+      <workItem from="1589741943575" duration="8088000" />
+      <workItem from="1589750467879" duration="28140000" />
+      <workItem from="1590924155028" duration="1616000" />
+      <workItem from="1591215530869" duration="10697000" />
+      <workItem from="1591556750190" duration="71000" />
+      <workItem from="1591628619389" duration="9760000" />
+      <workItem from="1591703145393" duration="11481000" />
+      <workItem from="1591741453644" duration="26811000" />
+      <workItem from="1591889582792" duration="7783000" />
+      <workItem from="1591955322563" duration="11706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591893577116">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="454" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1591893577116" />
+    <state width="1802" height="39" key="GridCell.Tab.0.bottom" timestamp="1591996078395">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="39" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1591996078395" />
+    <state width="1802" height="39" key="GridCell.Tab.0.center" timestamp="1591996078393">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="39" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1591996078393" />
+    <state width="1802" height="39" key="GridCell.Tab.0.left" timestamp="1591996078393">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="39" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1591996078393" />
+    <state width="1802" height="39" key="GridCell.Tab.0.right" timestamp="1591996078395">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="39" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1591996078395" />
+    <state width="1802" height="449" key="GridCell.Tab.1.bottom" timestamp="1591916399014">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="449" key="GridCell.Tab.1.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1591916399014" />
+    <state width="1802" height="449" key="GridCell.Tab.1.center" timestamp="1591916399012">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="449" key="GridCell.Tab.1.center/72.27.1848.1053@72.27.1848.1053" timestamp="1591916399012" />
+    <state width="1802" height="449" key="GridCell.Tab.1.left" timestamp="1591916399011">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="449" key="GridCell.Tab.1.left/72.27.1848.1053@72.27.1848.1053" timestamp="1591916399011" />
+    <state width="1802" height="449" key="GridCell.Tab.1.right" timestamp="1591916399013">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="449" key="GridCell.Tab.1.right/72.27.1848.1053@72.27.1848.1053" timestamp="1591916399013" />
+    <state x="524" y="265" width="934" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1591893750269">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="524" y="265" width="934" height="583" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/72.27.1848.1053@72.27.1848.1053" timestamp="1591893750269" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SahsaBot$bot.coverage" NAME="bot Coverage Results" MODIFIED="1591227235151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/SahsaBot3$bot.coverage" NAME="bot Coverage Results" MODIFIED="1591968261636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
